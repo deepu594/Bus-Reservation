@@ -30,11 +30,11 @@ public class AdminController {
 		 return new ResponseEntity<Admin>(adm,HttpStatus.OK);
 		
 	}
-	
-	
-	
-	
-	
+
+
+
+
+
 	
 	
 
